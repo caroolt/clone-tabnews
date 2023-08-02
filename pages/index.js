@@ -1,6 +1,6 @@
 function Home() {
   return (
-    <h1>Quero te fazer feliz os 365 dias do ano.</h1>
+    <h1>Teste</h1>
   )
 }
 
