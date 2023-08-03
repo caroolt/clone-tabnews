@@ -1,6 +1,6 @@
 function Home() {
   return (
-    <h1>Teste</h1>
+    <h1>Viver é a coisa mais rara do mundo. A maioria das pessoas apenas existe.</h1>
   )
 }
 
