@@ -1,6 +1,6 @@
 function Home() {
   return (
-    <h1>Viver é a coisa mais rara do mundo. A maioria das pessoas apenas existe.</h1>
+    <h1>Eu te quero só pra mim, como as ondas são do mar!</h1>
   )
 }
 
